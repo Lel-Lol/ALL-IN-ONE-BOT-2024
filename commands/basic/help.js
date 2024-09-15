@@ -84,7 +84,7 @@ module.exports = {
                     title: 'Bot Information',
                     description: `Welcome to the help command! This bot provides a variety of commands to enhance your server experience. Below are the categories and the number of commands available in each.`,
                     commands: [
-                        `**💜 AI gf for:** nocturnal_ninja\n`+
+                        `**💜Nocturnal_ninja's AI girlfriend💜**\n`+
                         `**Bot Version:** 1.0.0\n`+
                         `**Total Servers:** ${totalServers}\n`+
                         `**Total Members:** ${totalMembers}\n`+
@@ -242,7 +242,7 @@ module.exports = {
                     title: 'Bot Information',
                     description: `Welcome to the help command! This bot provides a variety of commands to enhance your server experience. Below are the categories and the number of commands available in each.`,
                     commands: [
-                        `**💜 AI gf for:** nocturnal_ninja\n`+
+                        `**💜Nocturnal_ninja's AI girlfriend💜**\n`+
                         `**Bot Version:** 1.0.0\n`+
                         `**Total Servers:** ${totalServers}\n`+
                         `**Total Members:** ${totalMembers}\n`+
