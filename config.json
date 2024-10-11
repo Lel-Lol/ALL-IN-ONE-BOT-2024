@@ -1,5 +1,5 @@
 {
-    "token": "",
+    "token": "API_TOKEN",
     "language": "en",
     "prefix": "!",
     "mongodbUri": "mongodb+srv://awsomeossam:QweAsdZxc@cluster0.kxnpo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
